@@ -6,5 +6,5 @@ module.exports = {
   },
   plugins: [],
 }
-plagin zed under wirdh sobvj olswj 
+
 
